@@ -1,5 +1,14 @@
 # Football Player Performance Analysis | 2024–2025
+## 📊 Power BI Dashboard Preview
 
+### 1. Overall Performance
+![Overall Performance](documentation/overall_performance.png)
+
+### 2. Player Performance Analysis
+![Player Performance Analysis](documentation/player_performance_analysis.png)
+
+### 3. Player Workload Analysis
+![Player Workload Analysis](documentation/player_workload_analysis.png)
 ## Project Overview
 
 The Football Player Performance Analysis project focuses on analyzing football player statistics from the 2024–2025 season using Python, SQL, and Power BI.
